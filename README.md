@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Computer Engineer with a strong background in React and Bootstrap. I enjoy crafting intuitive, responsive interfaces and turning complex ideas into elegant web experiences. My passion lies in clean code, reusable components, and continuous learning. My expertise spans the full stack, with proficiency in Java, C++, Python, JavaScript, and Kotlin. I leverage frameworks like Flask, Django, Node.js, Express.js, and databases such as MySQL, SQLite, and MongoDB to build robust applications. I'm also adept with Git/GitHub for version control and utilize tools like Katalon, Android Studio, and Appium across Linux and Windows environments.|
+
 <!--
 **17Hrishi/17Hrishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
